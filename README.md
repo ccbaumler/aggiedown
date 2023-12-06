@@ -12,6 +12,8 @@ At the same time, composition and formatting can be done using lightweight [mark
 
 ## Using `aggiedown` to write your dissertation
 
+For an alternate setup (not in R), check out Luiz's [`conda` based approach] with full Github Actions CI!](https://github.com/luizirber/phd)
+
 ### Initial setup
 
 Using **aggiedown** has some prerequisites, such as Pandoc, LaTeX and some fonts. To compile PDF documents using **R**, you need to have Pandoc, LaTeX and several related packages installed. If you have a recent version of  [RStudio](http://www.rstudio.com/products/rstudio/download/), then you already have Pandoc and don't need to do anything more about that. 
